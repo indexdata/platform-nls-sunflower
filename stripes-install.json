@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_invoice-7.0.2",
+    "id": "folio_invoice-7.0.3",
     "action": "enable"
   },
   {
@@ -128,7 +128,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-8.0.1",
+    "id": "folio_orders-8.0.3",
     "action": "enable"
   },
   {
@@ -264,7 +264,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_users-12.1.1",
+    "id": "folio_users-12.1.2",
     "action": "enable"
   },
   {
