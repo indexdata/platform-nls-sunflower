@@ -158,7 +158,7 @@
   "id" : "mod-users-bl-7.10.1",
   "action" : "enable"
 }, {
-  "id" : "folio_users-12.1.1",
+  "id" : "folio_users-12.1.2",
   "action" : "enable"
 }, {
   "id" : "mod-notes-7.0.0",
@@ -287,7 +287,7 @@
   "id" : "folio_serials-management-2.0.2",
   "action" : "enable"
 }, {
-  "id" : "mod-reading-room-1.2.0",
+  "id" : "mod-reading-room-1.2.1",
   "action" : "enable"
 }, {
   "id" : "folio_reading-room-2.0.0",
@@ -323,7 +323,7 @@
   "id" : "mod-feesfines-19.3.1",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.4.1",
+  "id" : "mod-circulation-24.4.2",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-11.0.0",
@@ -404,10 +404,10 @@
   "id" : "folio_finance-8.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-7.0.2",
+  "id" : "folio_invoice-7.0.3",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-8.0.1",
+  "id" : "folio_orders-8.0.3",
   "action" : "enable"
 }, {
   "id" : "mod-gobi-3.0.0",
@@ -422,7 +422,7 @@
   "id" : "edge-orders-3.2.0",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.4.1",
+  "id" : "mod-data-export-worker-3.4.2",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.5.0",
@@ -443,7 +443,7 @@
   "id" : "folio_plugin-query-builder-2.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.2.1",
+  "id" : "mod-bulk-operations-2.2.2",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.0",
