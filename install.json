@@ -38,7 +38,7 @@
   "id" : "folio_developer-10.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-licenses-6.2.1",
+  "id" : "mod-licenses-6.2.2",
   "action" : "enable"
 }, {
   "id" : "folio_licenses-12.0.1",
@@ -92,7 +92,7 @@
   "id" : "mod-di-converter-storage-2.4.0",
   "action" : "enable"
 }, {
-  "id" : "mod-service-interaction-4.2.1",
+  "id" : "mod-service-interaction-4.2.2",
   "action" : "enable"
 }, {
   "id" : "folio_dashboard-7.0.0",
@@ -137,7 +137,7 @@
   "id" : "folio_agreements-12.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-usage-11.0.0",
+  "id" : "folio_erm-usage-11.0.1",
   "action" : "enable"
 }, {
   "id" : "folio_tenant-settings-10.0.0",
@@ -257,13 +257,13 @@
   "id" : "folio_circulation-log-6.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-marc-components-2.0.0",
+  "id" : "folio_stripes-marc-components-2.0.1",
   "action" : "enable"
 }, {
   "id" : "mod-search-5.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-instance-9.0.0",
+  "id" : "folio_plugin-find-instance-9.0.1",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-authority-components-6.0.1",
@@ -329,7 +329,7 @@
   "id" : "folio_checkin-11.0.0",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-12.0.0",
+  "id" : "folio_checkout-12.0.1",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-11.0.0",
@@ -401,7 +401,7 @@
   "id" : "mod-invoice-6.0.0",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-8.0.1",
+  "id" : "folio_finance-8.0.2",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-7.0.3",
@@ -437,13 +437,13 @@
   "id" : "folio_plugin-bursar-export-4.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.0.2",
+  "id" : "mod-fqm-manager-4.0.3",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-query-builder-2.0.1",
+  "id" : "folio_plugin-query-builder-2.0.2",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.2.2",
+  "id" : "mod-bulk-operations-2.2.3",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.0",
@@ -452,10 +452,10 @@
   "id" : "edge-fqm-4.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-lists-3.1.1",
+  "id" : "mod-lists-3.1.2",
   "action" : "enable"
 }, {
-  "id" : "folio_lists-4.0.1",
+  "id" : "folio_lists-4.0.2",
   "action" : "enable"
 }, {
   "id" : "mod-dcb-1.3.0",
