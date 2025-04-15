@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-12.0.1",
+    "id": "folio_agreements-12.0.2",
     "action": "enable"
   },
   {
@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_circulation-11.0.0",
+    "id": "folio_circulation-11.0.1",
     "action": "enable"
   },
   {
@@ -224,11 +224,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_requests-12.0.1",
+    "id": "folio_requests-12.0.2",
     "action": "enable"
   },
   {
-    "id": "folio_serials-management-2.0.2",
+    "id": "folio_serials-management-2.0.3",
     "action": "enable"
   },
   {
@@ -244,7 +244,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-11.0.3",
+    "id": "folio_stripes-core-11.0.4",
     "action": "enable"
   },
   {
