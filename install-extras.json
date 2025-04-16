@@ -104,7 +104,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-patron-6.3.0",
+    "id": "mod-patron-6.3.1",
     "action": "enable"
   },
   {
@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.1.1",
+    "id": "mod-inventory-21.1.2",
     "action": "enable"
   },
   {
@@ -336,7 +336,7 @@
     "action": "enable"
   },  
   {
-    "id" : "mod-linked-data-1.0.2",
+    "id" : "mod-linked-data-1.0.3",
     "action" : "enable"
   }
 ]
