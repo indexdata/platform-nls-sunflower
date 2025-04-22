@@ -287,6 +287,9 @@
   "id" : "folio_serials-management-2.0.3",
   "action" : "enable"
 }, {
+  "id" : "mod-marc-migrations-2.0.1",
+  "action" : "enable"
+}, {
   "id" : "mod-reading-room-1.2.1",
   "action" : "enable"
 }, {

@@ -338,5 +338,9 @@
   {
     "id" : "mod-linked-data-1.0.3",
     "action" : "enable"
+  },
+  {
+    "id" : "mod-marc-migrations-2.0.1",
+    "action" : "enable"
   }
 ]
