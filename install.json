@@ -463,4 +463,10 @@
 }, {
   "id" : "edge-dcb-1.3.0",
   "action" : "enable"
+}, {
+  "id" : "folio_stripes-inventory-components-2.0.3",
+  "action" : "enable"
+}, {
+  "id" : "folio_stripes-erm-components-10.0.0",
+  "action" : "enable"
 } ]
