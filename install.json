@@ -469,4 +469,8 @@
 }, {
   "id" : "folio_stripes-erm-components-10.0.0",
   "action" : "enable"
-} ]
+}, {
+  "id" : "mod-marc-migrations-2.0.1",
+  "action" : "enable"
+}
+]
