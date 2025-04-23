@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.10.2",
+    "id": "mod-source-record-storage-5.10.3",
     "action": "enable"
   },
   {
@@ -172,7 +172,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-entities-links-4.0.1",
+    "id": "mod-entities-links-4.0.2",
     "action": "enable"
   },
   {
@@ -232,7 +232,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-19.3.1",
+    "id": "mod-feesfines-19.3.2",
     "action": "enable"
   },
   {
@@ -252,7 +252,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-13.0.2",
+    "id": "mod-orders-13.0.3",
     "action": "enable"
   },
   {
