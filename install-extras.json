@@ -60,7 +60,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-2.16.0",
+    "id": "mod-pubsub-2.16.1",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-13.9.2",
+    "id": "mod-orders-storage-13.9.3",
     "action": "enable"
   },
   {
