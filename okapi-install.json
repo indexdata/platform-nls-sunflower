@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.10.3",
+    "id": "mod-source-record-storage-5.10.4",
     "action": "enable"
   },
   {
@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-2.16.0",
+    "id": "mod-pubsub-2.16.1",
     "action": "enable"
   },
   {
@@ -116,7 +116,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-13.9.2",
+    "id": "mod-orders-storage-13.9.3",
     "action": "enable"
   },
   {
@@ -132,7 +132,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-5.1.0",
+    "id": "mod-finance-5.1.1",
     "action": "enable"
   },
   {
@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-linked-data-1.0.3",
+    "id": "mod-linked-data-1.0.4",
     "action": "enable"
   },
   {
@@ -276,7 +276,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-3.4.2",
+    "id": "mod-data-export-worker-3.4.3",
     "action": "enable"
   },
   {
