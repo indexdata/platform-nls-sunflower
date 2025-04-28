@@ -101,7 +101,7 @@
   "id" : "folio_service-interaction-4.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.0.5",
+  "id" : "mod-inventory-storage-29.0.6",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.0",
@@ -281,10 +281,10 @@
   "id" : "edge-courses-1.6.0",
   "action" : "enable"
 }, {
-  "id" : "mod-serials-management-2.0.2",
+  "id" : "mod-serials-management-2.0.3",
   "action" : "enable"
 }, {
-  "id" : "folio_serials-management-2.0.3",
+  "id" : "folio_serials-management-2.0.4",
   "action" : "enable"
 }, {
   "id" : "mod-marc-migrations-2.0.1",
@@ -407,7 +407,7 @@
   "id" : "folio_finance-8.0.2",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-7.0.3",
+  "id" : "folio_invoice-7.0.4",
   "action" : "enable"
 }, {
   "id" : "folio_orders-8.0.3",
@@ -446,7 +446,7 @@
   "id" : "folio_plugin-query-builder-2.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.2.3",
+  "id" : "mod-bulk-operations-2.2.4",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.2",
