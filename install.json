@@ -200,7 +200,7 @@
   "id" : "mod-user-import-3.10.0",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-3.10.2",
+  "id" : "mod-source-record-manager-3.10.3",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-item-1.2.0",
@@ -305,7 +305,7 @@
   "id" : "folio_marc-authorities-7.0.2",
   "action" : "enable"
 }, {
-  "id" : "folio_quick-marc-10.0.1",
+  "id" : "folio_quick-marc-10.0.2",
   "action" : "enable"
 }, {
   "id" : "mod-linked-data-1.0.4",
