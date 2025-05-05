@@ -100,7 +100,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.10.4",
+    "id": "mod-source-record-storage-5.10.5",
     "action": "enable"
   },
   {
@@ -212,7 +212,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.10.3",
+    "id": "mod-source-record-manager-3.10.4",
     "action": "enable"
   },
   {
