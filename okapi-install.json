@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.10.5",
+    "id": "mod-source-record-storage-5.10.6",
     "action": "enable"
   },
   {
@@ -124,7 +124,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.15.0",
+    "id": "mod-oai-pmh-3.15.1",
     "action": "enable"
   },
   {
