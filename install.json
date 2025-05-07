@@ -179,7 +179,7 @@
   "id" : "mod-login-saml-2.9.3",
   "action" : "enable"
 }, {
-  "id" : "mod-oai-pmh-3.15.0",
+  "id" : "mod-oai-pmh-3.15.1",
   "action" : "enable"
 }, {
   "id" : "folio_oai-pmh-6.0.0",
@@ -404,7 +404,7 @@
   "id" : "mod-invoice-6.0.0",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-8.0.3",
+  "id" : "folio_finance-8.0.4",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-7.0.4",
