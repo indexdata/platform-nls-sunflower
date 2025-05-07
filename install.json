@@ -404,7 +404,7 @@
   "id" : "mod-invoice-6.0.0",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-8.0.3",
+  "id" : "folio_finance-8.0.4",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-7.0.4",
