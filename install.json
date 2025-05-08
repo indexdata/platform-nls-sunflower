@@ -101,7 +101,7 @@
   "id" : "folio_service-interaction-4.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.0.6",
+  "id" : "mod-inventory-storage-29.0.7",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.0",
@@ -173,13 +173,13 @@
   "id" : "mod-finance-storage-8.8.2",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-13.9.3",
+  "id" : "mod-orders-storage-13.9.4",
   "action" : "enable"
 }, {
   "id" : "mod-login-saml-2.9.3",
   "action" : "enable"
 }, {
-  "id" : "mod-oai-pmh-3.15.0",
+  "id" : "mod-oai-pmh-3.15.1",
   "action" : "enable"
 }, {
   "id" : "folio_oai-pmh-6.0.0",
@@ -224,7 +224,7 @@
   "id" : "folio_eholdings-11.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.3.2",
+  "id" : "mod-data-import-3.3.3",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.1",
@@ -248,7 +248,7 @@
   "id" : "mod-entities-links-4.0.2",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.1.4",
+  "id" : "mod-inventory-21.1.5",
   "action" : "enable"
 }, {
   "id" : "mod-audit-2.11.1",
@@ -374,7 +374,7 @@
   "id" : "edge-caiasoft-2.4.0",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.0.3",
+  "id" : "mod-orders-13.0.4",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.0",
@@ -428,7 +428,7 @@
   "id" : "mod-data-export-worker-3.4.3",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-spring-3.5.0",
+  "id" : "mod-data-export-spring-3.5.1",
   "action" : "enable"
 }, {
   "id" : "folio_export-manager-4.0.0",
