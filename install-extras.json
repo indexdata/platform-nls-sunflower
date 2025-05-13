@@ -180,7 +180,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.15.0",
+    "id": "mod-oai-pmh-3.15.2",
     "action": "enable"
   },
   {
@@ -212,7 +212,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.10.4",
+    "id": "mod-source-record-manager-3.10.5",
     "action": "enable"
   },
   {
@@ -280,7 +280,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-courses-1.4.11",
+    "id": "mod-courses-1.4.12",
     "action": "enable"
   },
   {
