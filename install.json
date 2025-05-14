@@ -326,7 +326,7 @@
   "id" : "mod-feesfines-19.3.2",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.4.4",
+  "id" : "mod-circulation-24.4.5",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-11.0.1",
@@ -362,7 +362,7 @@
   "id" : "edge-ncip-1.10.2",
   "action" : "enable"
 }, {
-  "id" : "mod-remote-storage-3.4.1",
+  "id" : "mod-remote-storage-3.4.2",
   "action" : "enable"
 }, {
   "id" : "folio_remote-storage-7.0.1",
@@ -425,7 +425,7 @@
   "id" : "edge-orders-3.2.0",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.4.3",
+  "id" : "mod-data-export-worker-3.4.4",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.5.1",
