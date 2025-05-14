@@ -263,6 +263,9 @@
   "id" : "mod-search-5.0.2",
   "action" : "enable"
 }, {
+  "id" : "folio_stripes-inventory-components-2.0.4",
+  "action" : "enable"
+}, {
   "id" : "folio_plugin-find-instance-9.0.1",
   "action" : "enable"
 }, {
