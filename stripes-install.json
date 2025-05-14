@@ -248,10 +248,6 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-inventory-components-2.0.4",
-    "action": "enable"
-  },
-  {
     "id": "folio_stripes-marc-components-2.0.1",
     "action": "enable"
   },
