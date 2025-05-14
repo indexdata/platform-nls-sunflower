@@ -239,6 +239,9 @@
   "id" : "folio_stripes-core-11.0.7",
   "action" : "enable"
 }, {
+  "id" : "folio_stripes-inventory-components-2.0.4",
+  "action" : "enable"
+}, {
   "id" : "mod-reporting-1.3.1",
   "action" : "enable"
 }, {
@@ -261,9 +264,6 @@
   "action" : "enable"
 }, {
   "id" : "mod-search-5.0.2",
-  "action" : "enable"
-}, {
-  "id" : "folio_stripes-inventory-components-2.0.4",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.0.1",
