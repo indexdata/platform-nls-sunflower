@@ -12,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-connexion-1.4.0",
+    "id": "edge-connexion-1.4.1",
     "action": "enable"
   },
   {
@@ -200,7 +200,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.0.7",
+    "id": "mod-inventory-storage-29.0.8",
     "action": "enable"
   },
   {
@@ -276,7 +276,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-search-5.0.2",
+    "id": "mod-search-5.0.3",
     "action": "enable"
   },
   {
@@ -312,7 +312,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.0.6",
+    "id": "mod-fqm-manager-4.0.7",
     "action": "enable"
   },
   {
