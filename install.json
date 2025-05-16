@@ -101,7 +101,7 @@
   "id" : "folio_service-interaction-4.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.0.8",
+  "id" : "mod-inventory-storage-29.0.9",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.0",
@@ -224,7 +224,7 @@
   "id" : "folio_eholdings-11.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.3.3",
+  "id" : "mod-data-import-3.3.4",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.1",
@@ -263,7 +263,7 @@
   "id" : "folio_stripes-marc-components-2.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.0.3",
+  "id" : "mod-search-5.0.4",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.0.1",
