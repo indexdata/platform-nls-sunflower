@@ -50,7 +50,7 @@
   "id" : "mod-event-config-2.9.0",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.10.6",
+  "id" : "mod-source-record-storage-5.10.7",
   "action" : "enable"
 }, {
   "id" : "mod-tags-2.4.1",
@@ -89,7 +89,7 @@
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-di-converter-storage-2.4.1",
+  "id" : "mod-di-converter-storage-2.4.2",
   "action" : "enable"
 }, {
   "id" : "mod-service-interaction-4.2.2",
@@ -101,7 +101,7 @@
   "id" : "folio_service-interaction-4.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.0.9",
+  "id" : "mod-inventory-storage-29.0.10",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.0",
@@ -365,13 +365,13 @@
   "id" : "edge-ncip-1.10.2",
   "action" : "enable"
 }, {
-  "id" : "mod-remote-storage-3.4.2",
+  "id" : "mod-remote-storage-3.4.3",
   "action" : "enable"
 }, {
   "id" : "folio_remote-storage-7.0.1",
   "action" : "enable"
 }, {
-  "id" : "edge-dematic-2.4.1",
+  "id" : "edge-dematic-2.4.2",
   "action" : "enable"
 }, {
   "id" : "edge-caiasoft-2.4.0",
