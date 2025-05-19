@@ -100,7 +100,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.10.6",
+    "id": "mod-source-record-storage-5.10.7",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-dematic-2.4.1",
+    "id": "edge-dematic-2.4.2",
     "action": "enable"
   },
   {
@@ -176,7 +176,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-remote-storage-3.4.2",
+    "id": "mod-remote-storage-3.4.3",
     "action": "enable"
   },
   {
@@ -192,7 +192,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-di-converter-storage-2.4.1",
+    "id": "mod-di-converter-storage-2.4.2",
     "action": "enable"
   },
   {
@@ -200,7 +200,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.0.9",
+    "id": "mod-inventory-storage-29.0.10",
     "action": "enable"
   },
   {
