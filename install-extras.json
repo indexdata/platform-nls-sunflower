@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-sip2-3.4.0",
+    "id": "edge-sip2-3.4.1",
     "action": "enable"
   },
   {
@@ -100,7 +100,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.10.6",
+    "id": "mod-source-record-storage-5.10.8",
     "action": "enable"
   },
   {
@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.1.5",
+    "id": "mod-inventory-21.1.6",
     "action": "enable"
   },
   {
