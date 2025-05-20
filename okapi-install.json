@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.10.7",
+    "id": "mod-source-record-storage-5.10.8",
     "action": "enable"
   },
   {
@@ -176,7 +176,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.1.5",
+    "id": "mod-inventory-21.1.6",
     "action": "enable"
   },
   {
