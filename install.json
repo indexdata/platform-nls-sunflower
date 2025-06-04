@@ -5,7 +5,7 @@
   "id" : "folio_myprofile-10.0.0",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-authority-5.0.0",
+  "id" : "folio_plugin-find-authority-5.0.1",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-fund-4.0.0",
@@ -158,7 +158,7 @@
   "id" : "mod-users-bl-7.10.2",
   "action" : "enable"
 }, {
-  "id" : "folio_users-12.1.6",
+  "id" : "folio_users-12.1.7",
   "action" : "enable"
 }, {
   "id" : "mod-notes-7.0.0",
@@ -269,7 +269,7 @@
   "id" : "folio_plugin-find-instance-9.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-authority-components-6.0.1",
+  "id" : "folio_stripes-authority-components-6.0.2",
   "action" : "enable"
 }, {
   "id" : "mod-z3950-4.0.1",
@@ -305,7 +305,7 @@
   "id" : "mod-quick-marc-7.0.0",
   "action" : "enable"
 }, {
-  "id" : "folio_marc-authorities-7.0.2",
+  "id" : "folio_marc-authorities-7.0.3",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-10.0.2",
