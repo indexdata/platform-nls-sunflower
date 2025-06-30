@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_data-import-9.0.1",
+    "id": "folio_data-import-9.0.2",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-13.0.6",
+    "id": "folio_inventory-13.0.7",
     "action": "enable"
   },
   {
@@ -128,7 +128,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-8.0.4",
+    "id": "folio_orders-8.0.5",
     "action": "enable"
   },
   {
@@ -208,7 +208,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-10.0.2",
+    "id": "folio_quick-marc-10.0.3",
     "action": "enable"
   },
   {
