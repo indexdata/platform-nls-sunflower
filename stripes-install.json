@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-13.0.7",
+    "id": "folio_inventory-13.0.8",
     "action": "enable"
   },
   {
@@ -208,7 +208,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-10.0.3",
+    "id": "folio_quick-marc-10.0.4",
     "action": "enable"
   },
   {
@@ -308,7 +308,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-rtac-2.9.1",
+    "id": "edge-rtac-2.9.2",
     "action": "enable"
   },
   {
