@@ -208,7 +208,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-record-specifications-2.0.1",
+    "id": "mod-record-specifications-2.0.2",
     "action": "enable"
   },
   {
@@ -236,11 +236,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-24.4.10",
+    "id": "mod-circulation-24.4.11",
     "action": "enable"
   },
   {
-    "id": "mod-patron-6.3.1",
+    "id": "mod-patron-6.3.2",
     "action": "enable"
   },
   {
@@ -256,7 +256,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-rtac-3.8.0",
+    "id": "mod-rtac-3.8.1",
     "action": "enable"
   },
   {

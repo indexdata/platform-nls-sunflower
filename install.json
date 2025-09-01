@@ -299,7 +299,7 @@
   "id" : "folio_reading-room-2.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-record-specifications-2.0.1",
+  "id" : "mod-record-specifications-2.0.2",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.0.0",
@@ -329,7 +329,7 @@
   "id" : "mod-feesfines-19.3.2",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.4.10",
+  "id" : "mod-circulation-24.4.11",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-11.0.1",
@@ -341,7 +341,7 @@
   "id" : "folio_circulation-11.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-13.0.9",
+  "id" : "folio_inventory-13.0.10",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-6.0.0",
@@ -353,10 +353,10 @@
   "id" : "edge-sip2-3.4.1",
   "action" : "enable"
 }, {
-  "id" : "mod-patron-6.3.1",
+  "id" : "mod-patron-6.3.2",
   "action" : "enable"
 }, {
-  "id" : "edge-patron-5.3.0",
+  "id" : "edge-patron-5.3.1",
   "action" : "enable"
 }, {
   "id" : "mod-ncip-1.15.7",
@@ -392,10 +392,10 @@
   "id" : "folio_receiving-7.0.2",
   "action" : "enable"
 }, {
-  "id" : "mod-rtac-3.8.0",
+  "id" : "mod-rtac-3.8.1",
   "action" : "enable"
 }, {
-  "id" : "edge-rtac-2.9.2",
+  "id" : "edge-rtac-2.9.3",
   "action" : "enable"
 }, {
   "id" : "mod-eusage-reports-3.0.0",
