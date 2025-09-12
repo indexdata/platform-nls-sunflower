@@ -38,5 +38,13 @@
     {
     "action": "enable",
     "id": "mod-users-keycloak-3.0.2"
+  },
+    {
+    "action": "enable",
+    "id": "mod-inn-reach-3.4.3"
+  },
+    {
+    "action": "enable",
+    "id": "edge-inn-reach-3.4.1"
   }
 ]
