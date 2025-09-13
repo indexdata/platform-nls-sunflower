@@ -45,8 +45,6 @@ module.exports = {
     '@folio/lists' : {},
     '@folio/local-kb-admin': {},
     '@folio/marc-authorities': {},
-    '@folio/requests-mediated' : {},
-    '@folio/oa' : {},
     '@folio/orders' : {},
     '@folio/organizations' : {},
     '@folio/reading-room' : {},
