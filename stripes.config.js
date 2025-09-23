@@ -73,6 +73,7 @@ module.exports = {
     '@folio/tags': {},
     '@folio/tenant-settings' : {},
     '@folio/users' : {},
+    "@folio/mosaic-settings": {},
     '@folio/serials-management' : {},
     '@folio/stripes-marc-components' : {},
     '@folio/stripes-inventory-components' : {},

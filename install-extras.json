@@ -342,5 +342,9 @@
   {
     "id" : "mod-marc-migrations-2.0.3",
     "action" : "enable"
+  },
+  {
+    "id": "mod-mosaic-1.0.0",
+    "action": "enable"
   }
 ]
