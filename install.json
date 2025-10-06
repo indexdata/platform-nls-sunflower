@@ -125,9 +125,6 @@
   "id" : "edge-erm-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "edge-orders-3.2.0",
-  "action" : "enable"
-}, {
   "id" : "mod-calendar-3.3.0",
   "action" : "enable"
 }, {
@@ -426,6 +423,9 @@
   "action" : "enable"
 }, {
   "id" : "mod-ebsconet-2.4.0",
+  "action" : "enable"
+}, {
+  "id" : "edge-orders-3.2.0",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-worker-3.4.7",
