@@ -362,7 +362,7 @@
   "id" : "edge-patron-5.3.1",
   "action" : "enable"
 }, {
-  "id" : "mod-ncip-1.15.8",
+  "id" : "mod-ncip-1.16.1",
   "action" : "enable"
 }, {
   "id" : "edge-ncip-1.10.2",
