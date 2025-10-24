@@ -1,4 +1,4 @@
-# FOLIO complete platform
+# FOLIO complete platform: R1-2025-okapi (Sunflower on Okapi)
 
 Copyright (C) 2015-2023 The Open Library Foundation
 
@@ -65,7 +65,7 @@ fail 'yarn install'.  To resolve this, set the following environment variable pr
 running 'yarn install' when Nodejs version is v16+:
 
 ```
-CXXFLAGS="-std=c++17" 
+CXXFLAGS="-std=c++17"
 
 ```
 
@@ -157,4 +157,3 @@ See project [FOLIO](https://issues.folio.org/browse/FOLIO)
 at the [FOLIO issue tracker](https://dev.folio.org/guidelines/issue-tracker/).
 
 Other FOLIO Developer documentation is at [dev.folio.org](https://dev.folio.org/)
-
