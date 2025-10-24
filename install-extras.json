@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "okapi-6.1.4",
+    "id": "okapi",
     "action": "enable"
   },
   {
@@ -334,7 +334,7 @@
   {
     "id": "mod-serials-management-2.0.3",
     "action": "enable"
-  },  
+  },
   {
     "id" : "mod-linked-data-1.0.4",
     "action" : "enable"
