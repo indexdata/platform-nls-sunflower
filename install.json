@@ -125,7 +125,7 @@
   "id" : "edge-erm-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "edge-orders-3.2.1",
+  "id" : "edge-orders-3.2.2",
   "action" : "enable"
 }, {
   "id" : "mod-calendar-3.3.0",
