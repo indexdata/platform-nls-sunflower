@@ -40,8 +40,8 @@ pipeline {
 
           def lastCommit = sh(returnStatus: true,
                               script: "git log -1 | grep '.*\\[CI SKIP\\].*'")
-          if (lastCommit == 0) { 
-              echo "CI SKIP detected.  Aborting build" 
+          if (lastCommit == 0) {
+              echo "CI SKIP detected.  Aborting build"
               env.skipBuild = 'true'
           }
         }
@@ -49,14 +49,14 @@ pipeline {
     }
 
     stage('Do Build') {
-      when { 
+      when {
         expression {
           env.skipBuild != 'true'
         }
       }
       stages {
         stage('Build Stripes Platform') {
-          when { 
+          when {
             not {
               branch 'master'
             }
@@ -116,7 +116,7 @@ pipeline {
  *         steps {
  *           // build FOLIO instance
  *           buildPlatformInstance(env.ec2Group,env.folioHostname,env.tenant)
- *           script { 
+ *           script {
  *             def pr_comment = pullRequest.comment("Instance available at $env.folioUrl")
  *           }
  *
@@ -141,39 +141,41 @@ pipeline {
           }
         }
 
-        stage('Update Branch Install Artifacts') {
-          // Update branch with install artifacts
-          when {
-            changeRequest()
-          }
-          steps {
-            script {
-
-
-              def installFiles = ['stripes-install.json',
-                                  'okapi-install.json',
-                                  'install.json',
-                                  'yarn.lock']
-
-              sh "git fetch --no-tags ${env.projUrl} " +
-                 "+refs/heads/${env.CHANGE_BRANCH}:refs/remotes/origin/${env.CHANGE_BRANCH}"
-              sh "git checkout -b ${env.CHANGE_BRANCH} origin/${env.CHANGE_BRANCH}"
-
-              for (int i = 0; i < installFiles.size(); i++) {
-                sh "git add ${env.WORKSPACE}/${installFiles[i]}"
-              }
-
-              commitStatus = sh(returnStatus: true,
-                                    script: 'git commit -m "[CI SKIP] Updating install files on branch"')
-              if (commitStatus == 0) {
-                sshGitPush(origin: env.folioPlatform, branch: env.CHANGE_BRANCH)
-              }
-              else {
-                echo "No new changes.  No push to git origin needed" 
-              }
-            }
-          }
-        }
+/* skip this stage for manually maintained Sunflower on Okapi release branch */
+/*        stage('Update Branch Install Artifacts') {
+*          // Update branch with install artifacts
+*          when {
+*            changeRequest()
+*          }
+*          steps {
+*            script {
+*
+*
+*              def installFiles = ['stripes-install.json',
+*                                  'okapi-install.json',
+*                                  'install.json',
+*                                  'yarn.lock']
+*
+*              sh "git fetch --no-tags ${env.projUrl} " +
+*                 "+refs/heads/${env.CHANGE_BRANCH}:refs/remotes/origin/${env.CHANGE_BRANCH}"
+*              sh "git checkout -b ${env.CHANGE_BRANCH} origin/${env.CHANGE_BRANCH}"
+*
+*              for (int i = 0; i < installFiles.size(); i++) {
+*                sh "git add ${env.WORKSPACE}/${installFiles[i]}"
+*              }
+*
+*              commitStatus = sh(returnStatus: true,
+*                                    script: 'git commit -m "[CI SKIP] Updating install files on branch"')
+*              if (commitStatus == 0) {
+*                sshGitPush(origin: env.folioPlatform, branch: env.CHANGE_BRANCH)
+*              }
+*              else {
+*                echo "No new changes.  No push to git origin needed"
+*              }
+*            }
+*          }
+*        }
+*/
       } // end 'do build' stage
     } // end inner stages
   } // end outter stages
