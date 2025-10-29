@@ -125,6 +125,9 @@
   "id" : "edge-erm-1.4.0",
   "action" : "enable"
 }, {
+  "id" : "edge-orders-3.2.1",
+  "action" : "enable"
+}, {
   "id" : "mod-calendar-3.3.0",
   "action" : "enable"
 }, {
@@ -158,7 +161,7 @@
   "id" : "mod-users-bl-7.10.3",
   "action" : "enable"
 }, {
-  "id" : "folio_users-12.1.13",
+  "id" : "folio_users-12.1.14",
   "action" : "enable"
 }, {
   "id" : "mod-notes-7.0.0",
@@ -173,7 +176,7 @@
   "id" : "mod-finance-storage-8.8.4",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-13.9.4",
+  "id" : "mod-orders-storage-13.9.5",
   "action" : "enable"
 }, {
   "id" : "mod-login-saml-2.10.1",
@@ -197,7 +200,7 @@
   "id" : "mod-finance-5.1.1",
   "action" : "enable"
 }, {
-  "id" : "mod-user-import-3.10.1",
+  "id" : "mod-user-import-3.10.2",
   "action" : "enable"
 }, {
   "id" : "mod-source-record-manager-3.10.7",
@@ -236,7 +239,7 @@
   "id" : "mod-settings-1.2.0",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.0.10",
+  "id" : "folio_stripes-core-11.0.11",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-inventory-components-2.0.8",
@@ -251,7 +254,7 @@
   "id" : "mod-entities-links-4.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.1.9",
+  "id" : "mod-inventory-21.1.11",
   "action" : "enable"
 }, {
   "id" : "mod-audit-2.11.1",
@@ -263,7 +266,7 @@
   "id" : "folio_stripes-marc-components-2.0.2",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.0.6",
+  "id" : "mod-search-5.0.7",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.0.2",
@@ -332,13 +335,13 @@
   "id" : "mod-circulation-24.4.11",
   "action" : "enable"
 }, {
-  "id" : "folio_checkin-11.0.1",
+  "id" : "folio_checkin-11.0.2",
   "action" : "enable"
 }, {
   "id" : "folio_checkout-12.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-11.0.1",
+  "id" : "folio_circulation-11.0.2",
   "action" : "enable"
 }, {
   "id" : "folio_inventory-13.0.10",
@@ -359,7 +362,7 @@
   "id" : "edge-patron-5.3.1",
   "action" : "enable"
 }, {
-  "id" : "mod-ncip-1.15.7",
+  "id" : "mod-ncip-1.16.1",
   "action" : "enable"
 }, {
   "id" : "edge-ncip-1.10.2",
@@ -416,16 +419,13 @@
   "id" : "folio_orders-8.0.5",
   "action" : "enable"
 }, {
-  "id" : "mod-gobi-3.0.0",
+  "id" : "mod-gobi-3.0.1",
   "action" : "enable"
 }, {
   "id" : "folio_gobi-settings-4.0.0",
   "action" : "enable"
 }, {
   "id" : "mod-ebsconet-2.4.0",
-  "action" : "enable"
-}, {
-  "id" : "edge-orders-3.2.0",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-worker-3.4.7",
@@ -443,7 +443,7 @@
   "id" : "folio_plugin-bursar-export-4.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.0.13",
+  "id" : "mod-fqm-manager-4.0.14",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-2.0.3",
