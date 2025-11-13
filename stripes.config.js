@@ -1,5 +1,5 @@
 module.exports = {
-  okapi: { 'url':'https://nls-sunflower.folio-dev.indexdata.com', 'tenant':'nls' },
+  okapi: { 'url':'https://nls-sunflower-okapi.folio-dev.indexdata.com', 'tenant':'nls' },
   config: {
     logCategories: 'core,path,action,xhr',
     logPrefix: '--',
@@ -7,6 +7,9 @@ module.exports = {
     showPerms: false,
     preserveConsole: true,
     useSecureTokens: true,
+    welcomeMessage: 'Welcome to FOLIO for NLS (Sunflower+). The Future of Libraries is OPEN!',
+    aboutInstallDate: '2025-11-13T13:20-06:00',
+    aboutInstallVersion: 'Sunflower CSP 2'
   },
   modules: {
     '@folio/acquisition-units': {},
