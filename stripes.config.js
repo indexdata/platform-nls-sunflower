@@ -1,5 +1,5 @@
 module.exports = {
-  okapi: { 'url':'http://localhost:9130', 'tenant':'diku' },
+  okapi: { 'url':'https://nls-sunflower.folio-dev.indexdata.com', 'tenant':'nls' },
   config: {
     logCategories: 'core,path,action,xhr',
     logPrefix: '--',
@@ -80,11 +80,16 @@ module.exports = {
   },
   branding: {
     logo: {
-      src: './tenant-assets/opentown-libraries-logo.png',
-      alt: 'Opentown Libraries',
+      src: './tenant-assets/nls-logo.png',
+      alt: 'National Library of Sweden',
     },
     favicon: {
-      src: './tenant-assets/opentown-libraries-favicon.png',
+      src: './tenant-assets/sunflower-favicon.png',
     },
+    style: {
+      mainNav: {
+        backgroundColor: "#cc79a7"
+      }
+    }
   }
 };

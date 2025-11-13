@@ -4,7 +4,8 @@
   "license": "Apache-2.0",
   "scripts": {
     "build": "export NODE_OPTIONS=\"--max-old-space-size=4096 $NODE_OPTIONS\"; stripes-build build stripes.config.js",
-    "build-module-descriptors": "stripes-build mod descriptor stripes.config.js --output ./ModuleDescriptors"
+    "build-module-descriptors": "stripes-build mod descriptor stripes.config.js --output ./ModuleDescriptors",
+    "deploy": "sh -c 'find $0 -type f -exec gzip \"{}\" \\; -exec mv \"{}.gz\" \"{}\" \\; ; aws s3 sync ${0}/ s3://folio-dev-bundles/nls-sunflower --acl public-read --content-encoding gzip --delete'"
   },
   "dependencies": {
     "@folio/acquisition-units": "6.0.0",
