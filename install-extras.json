@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.1.11",
+    "id": "mod-inventory-21.1.13",
     "action": "enable"
   },
   {
@@ -256,7 +256,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-calendar-3.3.0",
+    "id": "mod-calendar-3.3.1",
     "action": "enable"
   },
   {
@@ -312,7 +312,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.0.14",
+    "id": "mod-fqm-manager-4.0.15",
     "action": "enable"
   },
   {
