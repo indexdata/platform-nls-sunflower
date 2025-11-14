@@ -146,7 +146,7 @@
   "id" : "folio_tenant-settings-10.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.437",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.12.2",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000161",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000721",
+  "id" : "folio_inventory-13.0.10",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-6.0.0",
