@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-17.4.0",
+    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.437",
     "action": "enable"
   },
   {
@@ -180,7 +180,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-audit-2.11.1",
+    "id": "mod-audit-3.0.0-SNAPSHOT.226",
     "action": "enable"
   },
   {
@@ -236,7 +236,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-24.4.11",
+    "id": "mod-circulation-24.5.0-SNAPSHOT.1333",
     "action": "enable"
   },
   {
