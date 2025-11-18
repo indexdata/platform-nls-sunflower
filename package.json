@@ -106,6 +106,7 @@
     "@folio/plugin-find-po-line": "6.0.1",
     "@folio/plugin-query-builder": "2.0.3",
     "@folio/quick-marc": "10.0.4",
+    "@folio/stripes": "git+https://github.com/folio-org/stripes#83fec77d",
     "@folio/stripes-template-editor": "git+https://github.com/folio-org/stripes-template-editor#e319c66",
     "@folio/stripes-util": "7.1.0",
     "@rehooks/local-storage": "2.4.5",
