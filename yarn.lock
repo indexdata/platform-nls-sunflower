@@ -2321,7 +2321,7 @@
     webpack-bundle-analyzer "^4.4.2"
     yargs "^17.3.1"
 
-"@folio/stripes-components@~13.0.0":
+"@folio/stripes-components@^13.0.0", "@folio/stripes-components@~13.0.0":
   version "13.0.7"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-components/-/stripes-components-13.0.7.tgz#f60cb3de4c0c9e1b8d2785a52b61a3d123a34bc5"
   integrity sha512-vBPnMmpL/i9cw96SBGhE7avUcHRWRArCPgIXad/Y3oGAi2zKyuyMLFO3stTzXJo5Ls/90B9xCSzhEC1s5Eermg==
@@ -2349,7 +2349,7 @@
     react-virtualized-auto-sizer "^1.0.2"
     tai-password-strength "^1.1.1"
 
-"@folio/stripes-connect@~10.0.0":
+"@folio/stripes-connect@^10.0.0", "@folio/stripes-connect@~10.0.0":
   version "10.0.0"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-connect/-/stripes-connect-10.0.0.tgz#70aa50ee801c3e7d82f66d893cf3bb9af8f25f8c"
   integrity sha512-HYRaNk97P89e/pOD8BUqFn+6GRm2CDrjFDtsmogRwXnmFn6VJAXw3e7Dcz1cGw9XOPd5RXqGxDnagqfxjDg4Lg==
@@ -2360,7 +2360,7 @@
     redux "^4.2.1"
     uuid "^9.0.0"
 
-"@folio/stripes-core@11.0.11", "@folio/stripes-core@~11.0.0":
+"@folio/stripes-core@11.0.11", "@folio/stripes-core@^11.0.0", "@folio/stripes-core@~11.0.0":
   version "11.0.11"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-core/-/stripes-core-11.0.11.tgz#333c19c0a37793e976ee49097c1ff65bf36297bc"
   integrity sha512-syPAFn7IxmQOF9Pa5TYUU250E/qcRzTpWdj3uLgiNthlP1rTRoSpfAqaLCrLZmAh72gapWA/pnNd3sqD9Qgk5w==
@@ -2432,7 +2432,7 @@
     react-final-form-arrays "^3.1.0"
     validator "^13.11.0"
 
-"@folio/stripes-final-form@~9.0.0":
+"@folio/stripes-final-form@^9.0.0", "@folio/stripes-final-form@~9.0.0":
   version "9.0.0"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-final-form/-/stripes-final-form-9.0.0.tgz#6ce925d43a193623f61a63f788584414a9e95e33"
   integrity sha512-QA8imp9kSeCKntXWFJmhaR6TqRHpbnwtWBmgaETFAXc5RHnyKgCQB0dj2rdo1KpOGODjHuRuZOY9Hsv4GpSE0g==
@@ -2445,7 +2445,7 @@
     react-final-form "^6.3.0"
     react-final-form-arrays "^3.1.0"
 
-"@folio/stripes-form@~10.0.0":
+"@folio/stripes-form@^10.0.0", "@folio/stripes-form@~10.0.0":
   version "10.0.0"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-form/-/stripes-form-10.0.0.tgz#282b4fced6357bda91eb8bed91f18752949bfe35"
   integrity sha512-GqYD15ZBtnzHg6CcBaJhoqLL4c0x/uD3J/9cTiJ4UTBZroUahMX39Ju7MT+pYtQr4cPR3k8kH8mj2EsJH+WREw==
@@ -2466,7 +2466,7 @@
     query-string "^5.0.0"
     zustand "^4.1.1"
 
-"@folio/stripes-logger@~1.0.0":
+"@folio/stripes-logger@^1.0.0", "@folio/stripes-logger@~1.0.0":
   version "1.0.0"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-logger/-/stripes-logger-1.0.0.tgz#588cdf4d27f90ce99389ccbb87a221fa6dd9e683"
   integrity sha512-YPd1NKDvEpr5d35o/P5Z1aCT37lujH0FR1CrJMJ9hiqe/qtva5ACte3BQdGGV02+M5sC13gBiITs6Vcx7A+GEg==
@@ -2493,7 +2493,7 @@
     lodash "^4.17.15"
     prop-types "^15.7.2"
 
-"@folio/stripes-smart-components@~10.0.0":
+"@folio/stripes-smart-components@^10.0.0", "@folio/stripes-smart-components@~10.0.0":
   version "10.0.2"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-smart-components/-/stripes-smart-components-10.0.2.tgz#f84e29e73287c22b9ba65a7879546ef6aad74457"
   integrity sha512-niPSz/hemw3HLEqciMNTt7NlSlB0kCV1r4oEbo7YL95ip6SqOShXb4kTTDS4iq1akEZntMwb7Yzz9CHh5o0Omw==
@@ -2547,7 +2547,7 @@
     popper.js "^1.16.1"
     type-fest "^4.12.0"
 
-"@folio/stripes-ui@~3.0.0":
+"@folio/stripes-ui@^3.0.0", "@folio/stripes-ui@~3.0.0":
   version "3.0.0"
   resolved "https://repository.folio.org/repository/npm-folio/@folio/stripes-ui/-/stripes-ui-3.0.0.tgz#f89157fc80303e0f9b321b81c762a79b96815ba7"
   integrity sha512-ZgC158bgczJDkHawVPq2d2N0Qk3f0XOg3dELmx92EJjyq2N+Zy7KgOvfTetzltqTtKEDSZz+Mj/VfATmnTV9zw==
@@ -2641,6 +2641,22 @@
     "@folio/stripes-types" "^3.0.0"
     "@folio/stripes-ui" "~3.0.0"
     "@folio/stripes-util" "~7.0.0"
+    redux "^4.2.1"
+
+"@folio/stripes@git+https://github.com/folio-org/stripes#c948a8f":
+  version "10.1.0"
+  resolved "git+https://github.com/folio-org/stripes#c948a8fedd5905b42d5656a01df0be0b22e1f961"
+  dependencies:
+    "@folio/stripes-components" "^13.0.0"
+    "@folio/stripes-connect" "^10.0.0"
+    "@folio/stripes-core" "^11.0.0"
+    "@folio/stripes-final-form" "^9.0.0"
+    "@folio/stripes-form" "^10.0.0"
+    "@folio/stripes-logger" "^1.0.0"
+    "@folio/stripes-smart-components" "^10.0.0"
+    "@folio/stripes-types" "^3.0.0"
+    "@folio/stripes-ui" "^3.0.0"
+    "@folio/stripes-util" "^7.0.0"
     redux "^4.2.1"
 
 "@folio/tags@9.0.0":

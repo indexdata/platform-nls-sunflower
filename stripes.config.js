@@ -9,7 +9,7 @@ module.exports = {
     useSecureTokens: true,
     welcomeMessage: 'Welcome to FOLIO for NLS (Sunflower+). The Future of Libraries is OPEN!',
     aboutInstallDate: '2025-11-18T09:50-06:00',
-    aboutInstallVersion: 'Sunflower CSP 2 + NLS-sponsored work (minimal versions + Stripes snapshot)'
+    aboutInstallVersion: 'Sunflower CSP 2 + NLS-sponsored work (minimal versions + Stripes tip of master)'
   },
   modules: {
     '@folio/acquisition-units': {},
