@@ -2651,10 +2651,9 @@
     prop-types "^15.5.10"
     redux-form "^8.3.7"
 
-"@folio/tenant-settings@10.0.0":
-  version "10.0.0"
-  resolved "https://repository.folio.org/repository/npm-folio/@folio/tenant-settings/-/tenant-settings-10.0.0.tgz#a560f76c6715232d1bc99541d1b778acbc957ef4"
-  integrity sha512-Sego4PyXtOvjQF9FW/+bYEa3cX/n15nEmow6IhrhGWSTnK90USPWrCgJ5lB4efLqqPI6BUShQMj+CLI0X5tsCA==
+"@folio/tenant-settings@git+https://github.com/folio-org/ui-tenant-settings#3e88e2c":
+  version "11.0.0"
+  resolved "git+https://github.com/folio-org/ui-tenant-settings#3e88e2c4a61c8feb22f08fad34fe4c7211adfe00"
   dependencies:
     final-form "^4.18.2"
     lodash "^4.17.4"
