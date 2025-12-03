@@ -50,7 +50,7 @@
   "id" : "mod-event-config-2.9.0",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.10.10",
+  "id" : "mod-source-record-storage-5.10.11",
   "action" : "enable"
 }, {
   "id" : "mod-tags-2.4.1",
@@ -101,7 +101,7 @@
   "id" : "folio_service-interaction-4.0.0",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.0.12",
+  "id" : "mod-inventory-storage-29.0.13",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.0",
@@ -125,10 +125,10 @@
   "id" : "edge-erm-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "edge-orders-3.2.1",
+  "id" : "edge-orders-3.2.2",
   "action" : "enable"
 }, {
-  "id" : "mod-calendar-3.3.0",
+  "id" : "mod-calendar-3.3.1",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.0",
@@ -239,7 +239,7 @@
   "id" : "mod-settings-1.2.0",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.0.11",
+  "id" : "folio_stripes-core-11.0.12",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-inventory-components-2.0.8",
@@ -254,13 +254,13 @@
   "id" : "mod-entities-links-4.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.1.11",
+  "id" : "mod-inventory-21.1.15",
   "action" : "enable"
 }, {
   "id" : "mod-audit-2.11.1",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-log-6.0.1",
+  "id" : "folio_circulation-log-6.0.2",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-marc-components-2.0.2",
@@ -332,25 +332,25 @@
   "id" : "mod-feesfines-19.3.2",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.4.11",
+  "id" : "mod-circulation-24.4.12",
   "action" : "enable"
 }, {
-  "id" : "folio_checkin-11.0.2",
+  "id" : "folio_checkin-11.0.3",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-12.0.1",
+  "id" : "folio_checkout-12.0.2",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-11.0.2",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-13.0.10",
+  "id" : "folio_inventory-13.0.11",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-6.0.0",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-12.0.3",
+  "id" : "folio_requests-12.0.4",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.4.2",
@@ -428,7 +428,7 @@
   "id" : "mod-ebsconet-2.4.0",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.4.7",
+  "id" : "mod-data-export-worker-3.4.10",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.5.2",
@@ -440,16 +440,16 @@
   "id" : "folio_organizations-6.0.1",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-bursar-export-4.0.3",
+  "id" : "folio_plugin-bursar-export-5.0.1",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.0.14",
+  "id" : "mod-fqm-manager-4.0.15",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-2.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.2.6",
+  "id" : "mod-bulk-operations-2.2.8",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.2",
@@ -464,10 +464,10 @@
   "id" : "folio_lists-4.0.3",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-1.3.5",
+  "id" : "mod-dcb-1.3.7",
   "action" : "enable"
 }, {
-  "id" : "edge-dcb-1.3.1",
+  "id" : "edge-dcb-1.3.3",
   "action" : "enable"
 }, {
   "id" : "mod-mosaic-1.0.0",
