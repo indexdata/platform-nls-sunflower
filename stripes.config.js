@@ -8,7 +8,7 @@ module.exports = {
     preserveConsole: true,
     useSecureTokens: true,
     welcomeMessage: 'Welcome to FOLIO for NLS (Sunflower+). The Future of Libraries is OPEN!',
-    aboutInstallDate: '2025-11-20T11:00-06:00',
+    aboutInstallDate: '2025-12-03T12:30-06:00',
     aboutInstallVersion: 'Sunflower CSP 2 + NLS-sponsored work (minimal versions)'
   },
   modules: {
