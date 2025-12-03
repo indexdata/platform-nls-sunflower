@@ -7,9 +7,9 @@ module.exports = {
     showPerms: false,
     preserveConsole: true,
     useSecureTokens: true,
+    aboutInstallVersion: 'Sunflower on Okapi CSP 3 + NLS-sponsored work',
     welcomeMessage: 'Welcome to FOLIO for NLS (Sunflower+). The Future of Libraries is OPEN!',
-    aboutInstallDate: '2025-12-03T12:30-06:00',
-    aboutInstallVersion: 'Sunflower CSP 2 + NLS-sponsored work (minimal versions)'
+    aboutInstallDate: '2025-12-03T15:18-06:00',
   },
   modules: {
     '@folio/acquisition-units': {},
