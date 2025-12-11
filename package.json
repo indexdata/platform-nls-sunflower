@@ -15,7 +15,7 @@
     "@folio/checkin": "git+https://github.com/folio-org/ui-checkin#56744b9",
     "@folio/checkout": "git+https://github.com/folio-org/ui-checkout#53b0c05",
     "@folio/circulation": "git+https://github.com/folio-org/ui-circulation#3c81138",
-    "@folio/circulation-log": "git+https://github.com/folio-org/ui-circulation-log#f048a74",
+    "@folio/circulation-log": "6.0.2",
     "@folio/claims": "1.0.0",
     "@folio/courses": "7.0.3",
     "@folio/dashboard": "7.0.0",

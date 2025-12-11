@@ -1471,9 +1471,10 @@
     "@folio/plugin-create-inventory-records" "^6.0.0"
     "@folio/plugin-find-user" "^8.0.0"
 
-"@folio/circulation-log@git+https://github.com/folio-org/ui-circulation-log#f048a74":
-  version "6.0.1"
-  resolved "git+https://github.com/folio-org/ui-circulation-log#f048a745b7c55f609f41b3f40fdd246a0313f4b2"
+"@folio/circulation-log@6.0.2":
+  version "6.0.2"
+  resolved "https://repository.folio.org/repository/npm-folio/@folio/circulation-log/-/circulation-log-6.0.2.tgz#d7d94511951830ca401e1763d16190bb12075297"
+  integrity sha512-uXvpO2gYqEZXYrVE3lO/hNsXt3IbL3MHG7auioWnCW7pPX+p/A2/pvgvkt/PPXzNmTkToxM92RgtKVjK5eGI1A==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     dayjs "^1.11.9"

@@ -9,7 +9,7 @@ module.exports = {
     useSecureTokens: true,
     aboutInstallVersion: 'Sunflower on Okapi CSP 3 + NLS-sponsored work',
     welcomeMessage: 'Welcome to FOLIO for NLS (Sunflower ++). The Future of Libraries is OPEN!',
-    aboutInstallDate: '2025-12-04T12:29-06:00',
+    aboutInstallDate: '2025-12-11T07:47-06:00',
   },
   modules: {
     '@folio/acquisition-units': {},
